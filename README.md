@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sameer Chhatbar!
 
-🚀 **React Native & .NET Developer** | 📱 Mobile App Enthusiast
+🚀 **Ionic & .NET Developer** | 📱 Mobile App Enthusiast
 
 Welcome to my GitHub! I specialize in building seamless, performant, and user-friendly applications using **Ionic**, **.NET Core**, and **Angular**. With a passion for crafting beautiful interfaces and delivering exceptional user experiences, I thrive on turning ideas into functional apps.
 
