@@ -7,7 +7,7 @@ Welcome to my GitHub! I specialize in building seamless, performant, and user-fr
 ---
 
 ### 💻 What I Do
-- **Cross-platform development**: Building apps with React Native for iOS and Android.
+- **Cross-platform development**: Building apps with Ionic for iOS and Android.
 - **Backend Development**: Expertise in **.NET Core** and API development.
 - **Frontend Development**: Skilled in **Angular** and creating dynamic user interfaces.
 - **State Management**: Proficient in **Redux**, **React Query**, and Context API.
@@ -18,7 +18,7 @@ Welcome to my GitHub! I specialize in building seamless, performant, and user-fr
 
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, C#, SQL
-- **Frameworks:** React Native, .NET Core, Angular
+- **Frameworks:** Ionic, .NET Core, Angular
 - **Databases:** PostgreSQL, SQLite, MongoDB , SQL Server
 - **Tools & Platforms:** Visual Studio, Xcode, Docker, Jenkins, Kubernetes
 - **UI/UX:** Figma
