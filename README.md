@@ -37,7 +37,7 @@ Welcome to my GitHub! I specialize in building seamless, performant, and user-fr
 ---
 
 ### 📬 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sameerchhatbar)
+- **LinkedIn:** [linkedin.com/in/sameerchhatbar](https://www.linkedin.com/in/sameerchhatbar)
 - **Email:** sameerchhatbar@gmail.com
 
 ---
