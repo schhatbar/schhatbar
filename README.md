@@ -1,66 +1,46 @@
-# Hi there, I'm Sameer! 👋
+# 👋 Hello, I'm Sameer Chhatbar!
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with expertise in **.NET Core**, **Angular**, **React Native**, and **Kubernetes**. I thrive on building scalable and efficient applications, and I enjoy exploring new technologies to solve challenging problems.
+🚀 **React Native & .NET Developer** | 📱 Mobile App Enthusiast
 
----
-
-## 🚀 Technologies & Tools I Work With
-
-### Backend
-- **.NET Core**
-- **ABP Framework**
-- **PostgreSQL**
-
-### Frontend
-- **Angular**
-- **Ionic**
-
-### DevOps
-- **AWS**
-- **Kubernetes**
-- **Jenkins** (CI/CD)
-- **Docker & Docker Compose**
-
-### Additional Tools
-- **Identity Management** with **.NET Identity**
-- **API Versioning** with **Asp.Versioning.Mvc.ApiExplorer**
-- **Google Places API**
-- **Day.js** for date manipulation
-- **Westwind Globalization** for resource localization
+Welcome to my GitHub! I specialize in building seamless, performant, and user-friendly applications using **Ionic**, **.NET Core**, and **Angular**. With a passion for crafting beautiful interfaces and delivering exceptional user experiences, I thrive on turning ideas into functional apps.
 
 ---
 
-## 🌟 Key Projects
-
-### Social Media Platform
-- Built a full-featured social media platform using **Clean Architecture**.
-- Implemented features like **community creation**, **threaded comments**, **reactions**, **events**, and **e-commerce**.
-
-### Multi-Tenant Application
-- Designed and developed a **multi-tenant architecture**.
-- Customized tenant-specific roles and permissions.
-
-### Real-Time Chat Application
-- Leveraged **WebSockets** for a live chat feature without SignalR.
-- Integrated the chat system seamlessly into a **React Native** app.
+### 💻 What I Do
+- **Cross-platform development**: Building apps with React Native for iOS and Android.
+- **Backend Development**: Expertise in **.NET Core** and API development.
+- **Frontend Development**: Skilled in **Angular** and creating dynamic user interfaces.
+- **State Management**: Proficient in **Redux**, **React Query**, and Context API.
+- **Third-party Integrations**: Firebase, REST APIs, GraphQL, Payment SDKs, etc.
+- **Performance Optimization**: Ensuring smooth animations and efficient code.
 
 ---
 
-## 📚 Learning & Interests
+### 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, C#, SQL
+- **Frameworks:** React Native, .NET Core, Angular
+- **Databases:** PostgreSQL, SQLite, MongoDB , SQL Server
+- **Tools & Platforms:** Visual Studio, Xcode, Docker, Jenkins, Kubernetes
+- **UI/UX:** Figma
 
-I'm constantly exploring technologies like:
-- **WebSockets**
-- **Advanced Authentication Mechanisms**
-- **Custom filtering and searching in APIs**
-- Building responsive, mobile-first applications.
+
+### 🌱 Currently Learning
+- **Advanced WebSockets**: For real-time chat features.
+- **Multi-tenancy in .NET Core**: Enhancing tenant-specific features.
+- **AI Integrations**: Using AI for predictions and advanced app capabilities.
 
 ---
 
-## 🤝 Let's Connect
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=schhatbar&show_icons=true&theme=radical)
 
-Feel free to reach out to discuss opportunities, collaborations, or just to say hi! 😊
+---
 
-- 📧 **Email:** [sameerchhatbar@gmail.com](mailto:sameerchhatbar@gmail.com)
-- 💼 **LinkedIn:** [Sameer Chhatbar](https://www.linkedin.com/in/sameerchhatbar)
-- 
-Thanks for visiting my profile! 🙌
+### 📬 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sameerchhatbar)
+- **Email:** sameerchhatbar@gmail.com
+
+---
+
+💡 *"Great apps are not built in a day; they're crafted with passion, patience, and precision."*
+
