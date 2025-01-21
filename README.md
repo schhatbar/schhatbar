@@ -10,14 +10,10 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with expert
 - **.NET Core**
 - **ABP Framework**
 - **PostgreSQL**
-- **System.Text.Json**
 
 ### Frontend
 - **Angular**
-- **React Native** (Mobile Development)
-- **Ionic React**
-- **GSAP for Animations**
-- **PrimeNG Components**
+- **Ionic**
 
 ### DevOps
 - **AWS**
@@ -64,10 +60,7 @@ I'm constantly exploring technologies like:
 
 Feel free to reach out to discuss opportunities, collaborations, or just to say hi! 😊
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
+- 📧 **Email:** [sameerchhatbar@gmail.com](mailto:sameerchhatbar@gmail.com)
+- 💼 **LinkedIn:** [Sameer Chhatbar](https://www.linkedin.com/in/sameerchhatbar)
+- 
 Thanks for visiting my profile! 🙌
-
